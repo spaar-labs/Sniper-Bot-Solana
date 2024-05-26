@@ -9,8 +9,8 @@
  - ##### **Configurable with tip jito entries.**
  - ##### **Profit, stop loss and trailing stop loss configurable.**
  - ##### **Possibility to enter all the tokens as they come out and track them separately.**
- ##### **And much more...****
-**
+ ##### **And much more...**
+
 
 ### Soon open, access only to subscribers of our Discord server.
 
