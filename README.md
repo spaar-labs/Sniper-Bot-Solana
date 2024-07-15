@@ -15,4 +15,4 @@
 ### Soon open, access only to subscribers of our Discord server.
 
 
-#### *For more information we are at https://discord.gg/spaarlabs*
+#### *For more information we are at https://discord.spaar-labs.xyz*
